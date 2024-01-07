@@ -136,7 +136,7 @@
       width: 160px;
       height: 270px;
   
-      &:nth-child(3) { left: 50%; }
+      &:nth-child(3) { left: 100%; }
       &:nth-child(4) { left: calc(50% + 170px); }
       &:nth-child(5) { left: calc(50% + 340px); }
       &:nth-child(6) { left: calc(50% + 510px); opacity: 0; }
@@ -153,7 +153,7 @@
       width: 130px;
       height: 220px;
   
-      &:nth-child(3) { left: 50%; }
+      &:nth-child(3) { left: 100%; }
       &:nth-child(4) { left: calc(50% + 140px); }
       &:nth-child(5) { left: calc(50% + 280px); }
       &:nth-child(6) { left: calc(50% + 420px); opacity: 0; }
